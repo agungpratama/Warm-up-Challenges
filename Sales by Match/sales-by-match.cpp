@@ -4,6 +4,7 @@
 #include <map>
 using namespace std;
 
+//Link to problem: https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true
 int sockMerchant(int n, vector<int> ar) {
 
     map<int,int> pairMap;
