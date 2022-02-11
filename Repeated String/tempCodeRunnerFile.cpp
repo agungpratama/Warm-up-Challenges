@@ -1,0 +1,1 @@
+numberOfFullyRepeatedPattern * numberOfCharToCheckInPattern) + numberOfCharToCheckInRemainingLength
